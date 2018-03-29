@@ -3,8 +3,8 @@
     <string name="cancel">Annuler</string>
     <string name="error">Erreur</string>
     <string name="no_internet">Pour jouer, vous devez avoir une connexion Internet</string>
-    <string name="show_minimap">Afficher la mini carte</string>
-    <string name="show_chat">Show chat</string>
+    <string name="show_minimap">Afficher la carte</string>
+    <string name="show_chat">Afficher le chat</string>
     <string name="show_advanced_minimap">Carte avancée</string>
     <string name="region">Région:</string>
     <string name="show_grid">Afficher les grilles</string>
@@ -12,13 +12,13 @@
     <string name="show_names">Afficher les noms</string>
     <string name="name">Nom</string>
 
-    <string name="default_name">Não me coma</string>
+    <string name="default_name">Do not eat me</string>
     <string name="play">Jouer</string>
-    <string name="nick_name">Votre nom:</string>
+    <string name="nick_name">Surnom:</string>
     <string name="exit_dialog">Que voulez-vous?</string>
     <string name="exit">Sortie</string>
     <string name="restart">Reset</string>
-    <string name="show_leaders">Montrer les leaders</string>
+    <string name="show_leaders">Tableau de bord</string>
     <string name="show_skins">Afficher les peaux</string>
     <string name="show_DirectionPointer">Pointer direction</string>
     <string name="show_joystick">Joystick</string>
@@ -30,7 +30,7 @@
     <string name="connect_to">Se connecter à</string>
     <string name="connecting">Connexion</string>
     <string name="enter_ip">Entrez l\'IP</string>
-    <string name="copied">Copié</string>
+    <string name="copied">Copié:</string>
     <string name="connection_closed">La connexion a expiré</string>
     <string name="connection_lost">Connexion perdue</string>
     <string name="cant_connect">Ne peut pas se connecter, réessayez ultérieurement</string>
@@ -68,7 +68,7 @@
         &#160;- Vous ne pouvez pas manger ou être mangé par des joueurs de la même taille que vous.\n
         &#160;- Contrôles: Appuyez n\'importe où sur l\'écran pour déplacer votre blob ou utilisez le joystick.\n
         &#160;- Touchez le bouton correspondant pour scinder ou éjecter une certaine masse.\n\n
-        &#160; Vous pouvez relire cette information en cliquant sur l\'icône de point d\'interrogation dans le menu et en sélectionnant "Moteur de jeu".\n
+        &#160; Vous pouvez relire cette information en cliquant sur l\'icône de point d\'interrogation dans le menu et en sélectionnant "Info".\n
         &#160; Redémarrez l\'application et nettoyez la RAM en cas de problème.\n
         &#160; De plus, vous pouvez désactiver l\'affichage des noms et de la masse pour éviter les retards.\n
 
@@ -77,11 +77,11 @@
     <string name="update_title">Mise à jour disponible</string>
     <string name="update_message">Mise à jour</string>
     <string name="players">Joueurs:&#160;</string>
-    <string name="totals">Total</string>
+    <string name="totals">Totaux</string>
 
 
     <string name="fb_info_title">Information</string>
-    <string name="fb_info_message">Connectez-vous à Facebook et obtenez une plus grande masse au départ!
+    <string name="fb_info_message">Connectez-vous à Facebook ou Google et obtenez une plus grande masse au départ!
         Jouez et obtenez une plus grande masse pour obtenir plus de nuances de niveau!</string>
     <string name="how_to_install">Comment installer</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
@@ -99,7 +99,7 @@
     <!-- Rate this app-->
     <string name="rta_dialog_title">Notez cette application</string>
     <string name="rta_dialog_message">Avez-vous aimé le jeu? Évaluez-nous, ce ne sera pas trop long, juste une minute de votre temps!</string>
-    <string name="rta_dialog_ok">Notez maintenant</string>
+    <string name="rta_dialog_ok">Évaluer maintenant</string>
     <string name="rta_dialog_cancel">Annuler</string>
     <string name="rta_dialog_no">Non, merci</string>
 
@@ -134,9 +134,9 @@
 
     <string name="view_profile">Voir le profil</string>
     <string name="delete">Supprimé</string>
-    <string name="join_game">Connectez-vous au jeu</string>
+    <string name="join_game">Suivez/string>
     <string name="accept">Accepter</string>
-    <string name="decline">Déclin</string>
+    <string name="decline">Supprimer</string>
     <string name="copy_ip">Copier IP</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
@@ -184,7 +184,7 @@
     <string name="processing">Traitement...</string>
     <string name="free_coins_toast">Vous avez gagné %d pièces de grâce!</string>
     <string name="free_coins">Pièces gratuites</string>
-    <string name="watch_video">Regardez la vidéo</string>
+    <string name="watch_video">Regarder</string>
     <string name="lvl_coins_reward">Félicitations! Vous avez atteint le %1$d et a gagné %2$d pièces de monnaie!</string>
 
     <!-- Items description localization -->
@@ -217,28 +217,28 @@
     <string name="show_cell_border">Show cell border</string>
     <string name="cur_week_exp">Cur. Week Exp</string>
     <string name="prev_week_exp">Prev. Week Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="rules_title">Règles</string>
     <string name="rules_description">
     \n
     1.) Do not insult other players\n
-    2.) Do not pretend to be a MODERATOR\n
-    3.) Do not exchange Blob.io accounts outside or in-side the game\n
-    4.) Do not cheat to reach top Ranking of the game\n
-    5.) Do not use inappropriate names in game\n
-    6.) Do not take advantage of bugs in the game\n
-    7.) Do not team with someone on opposite teaming (CROSS TEAMING)\n
+    2.) Ne pas être demandé d'être MODERATEUR\n
+    3.) Ne pas échanger de comptes Blob\n
+    4.) Ne trichez pas pour devenir serveur top1\n
+    5.) N'utilisez pas de noms inappropriés dans le surnom du jeu.\n
+    6.) Ne pas profiter des lacunes que vous pourriez avoir dans le jeu.\n
+    7.) Ne faites pas équipe avec d'autres équipes.\n
     </string>
-    <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
-    <string name="server_app_description">With this app you can create own server and play offline or with friends!</string>
-    <string name="show_fps">Show FPS</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
+    <string name="top_week_exp_desc">Gagnez autant d'EXP pour une semaine et vous pouvez gagner des pièces</string>
+    <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur, jouer hors ligne ou avec vos amis!</string>
+    <string name="show_fps">Afficher FPS</string>
+    <string name="saved">Enregistré</string>
+    <string name="delete_server">Supprimer le serveur?</string>
+    <string name="deleted">Supprimé</string>
+    <string name="added">Ajouté</string>
+    <string name="add_new">Ajouter un nouveau</string>
     <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
+    <string name="list">Liste</string>
     <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
+    <string name="time_left">Temps restant:</string>
     <string name="edit">Edit</string>
 </resources>
